@@ -61,4 +61,5 @@ This project reinforced the importance of:
 
 ---
 
+
 Feel free to reach out if you'd like additional details about this project or my approach to WordPress development!
