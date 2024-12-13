@@ -1,3 +1,8 @@
+Thank you for emphasizing the importance of documentation and sustainable code. While I don't have publicly available links to share, I can provide an example of how I document my projects to ensure clarity and maintainability. Below is a sample README file and inline code comments for the Issue Tracker project:
+
+#Sample README for Issue Tracker
+------------------------------------------------
+
 # Issue Tracker
 
 A React-based web application for managing and filtering issues in a ticketing system. This project showcases clean code practices, modular design, and user-friendly functionality.
