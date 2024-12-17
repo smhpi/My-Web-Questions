@@ -1,7 +1,5 @@
 # GitHub Repository Overview
 
-To address your questions, I have created a GitHub repository where I’ve provided the requested details in separate `.md` files for clarity and ease of navigation. You can access the repository here:
-
 ## Repository Contents
 
 ### 1. Code Snippet
