@@ -2,29 +2,36 @@
 
 Here is a list of some websites I have contributed to, along with my specific roles and responsibilities for each project:
 
-1. **[Durham Geo](https://durhamgeo.com/)**
+1. **[Controls Group](https://controls-group.com/)**
+   - **Role**: Designer and Web Developer   
+
+2. **[Durham Geo](https://durhamgeo.com/)**
    - **Role**: Web Developer and Designer
 
-2. **[Roctest](https://roctest.com/en/)**
+3. **[Roctest](https://roctest.com/en/)**
    - **Role**: Maintenance, Template, and Plugin Customization
 
-3. **[Waterloo Hydrogeologic](https://www.waterloohydrogeologic.com/)**
+4. **[Waterloo Hydrogeologic](https://www.waterloohydrogeologic.com/)**
    - **Role**: Web Developer and Front-End Designer
 
-4. **[Soil Instruments](https://www.soilinstruments.com/)**
+5. **[Soil Instruments](https://www.soilinstruments.com/)**
    - **Role**: Developer and Designer for Updating the New Home Page
 
-5. **[Brookhaven Instruments](https://www.brookhaveninstruments.com/)**
+6. **[Brookhaven Instruments](https://www.brookhaveninstruments.com/)**
    - **Role**: Developer and Contributor to Design
 
-6. **[Phoenix ISL](https://www.phoenixisl.com/)**
+7. **[Phoenix ISL](https://www.phoenixisl.com/)**
    - **Role**: Developer and Designer for Specific Sections
 
-7. **[Degree Controls (DegreeC)](https://www.degreec.com/)**
+8. **[Degree Controls (DegreeC)](https://www.degreec.com/)**
    - **Role**: Developer and Theme Designer
 
-8. **[Stresstech](https://www.stresstech.com/)**
+9. **[Stresstech](https://www.stresstech.com/)**
    - **Role**: Designer and Web Developer
+
+10. **[VJ Tech](https://www.vjtech.co.uk/)**
+   - **Role**: Designer and Web Developer
+  
 
 ## Summary
 
